@@ -1,4 +1,5 @@
 A2C Stock Trading
+
 O projeto A2C Stock Trading é uma aplicação de aprendizado por reforço que utiliza o algoritmo Advantage Actor-Critic (A2C) para automatizar a negociação de ações no mercado financeiro. Através da integração de dados históricos de preços de ações e técnicas de aprendizado por reforço, este projeto visa desenvolver um agente inteligente capaz de tomar decisões de negociação eficazes.
 
 Funcionalidades principais:
